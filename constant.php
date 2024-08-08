@@ -2,9 +2,9 @@
 
 define("ANGKA", 1);
 
-class Hewan {
+class Orang {
     const NAMA = "Arpi <br>";
 }
 
-echo Hewan::NAMA;
+echo Orang::NAMA;
 echo ANGKA;
